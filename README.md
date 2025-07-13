@@ -11,7 +11,7 @@ Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-u
 ---
 ## DAY 2
 ### MODULE 2. Sequence Quality Assessement and Trimming
-We will use [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) to analyze sequence quality and visualize in a convenient browser. Poor quality sequence, as well as contaminating adpators, will then be trimmed using [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) ([Bolger et al. 2014](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096).
+We will use [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) to analyze sequence quality and visualize in a convenient browser. Poor quality sequence, as well as contaminating adaptors, will then be trimmed using [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) ([Bolger et al. 2014](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096).
 
 [MODULE2_SEQUENCES Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_2_Sequences.pdf)
 ### MODULE 3. De Novo Genome Assembly
