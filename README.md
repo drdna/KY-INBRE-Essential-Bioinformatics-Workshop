@@ -4,7 +4,7 @@ Training Materials and Background Information
 ### [Introduction to the Workshop]()
 Motivation, goals, and structure
 ### MODULE 1. Learning to work in the UNIX command line environment
-[MODULE1_UNIX Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_1_Unix.pdf)
+[MODULE1_UNIX Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_1_Unix.pdf).
 Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/Unix_Cheat_Sheet.pdf) that includes most of the commands necessary to perform a wide range of bioinformatic data processing tasks.
 ## DAY 2
 ### MODULE 2. Sequence Quality Assessement and Trimming
