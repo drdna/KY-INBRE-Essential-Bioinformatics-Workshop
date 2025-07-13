@@ -1,7 +1,7 @@
 # KY-INBRE-Essential-Bioinformatics-Workshop
 Training Materials and Background Information 
 ## DAY 1
-### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Introduction.pptx)
+### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
 ### MODULE 1. Learning to work in the UNIX command line environment
 [MODULE1_UNIX Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_1_Unix.pdf).
