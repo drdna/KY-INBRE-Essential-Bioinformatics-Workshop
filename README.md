@@ -24,7 +24,7 @@ We will then learn how to use [Bandage](https://academic.oup.com/bioinformatics/
 ---
 ## DAY 3
 ### MODULE 4. Sequence Comparison using Local BLAST
-Most participants will be familiar with using [BLAST]([Altshul et al. 1990](https://www.sciencedirect.com/science/article/pii/S0022283605803602?via%3Dihub); Camacho et al. 2009](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)) to search for sequence similarities by using NCBI's [BLAST web portal](https://blast.ncbi.nlm.nih.gov/Blast.cgi). We will first (re)familiarize ourselves with the search caoabilities of the online service. Then, we will learn how to perform BLAST searches on a local computer, which allows querying of both remote and local sequence databases.
+Most participants will be familiar with using [BLAST]([Altshul et al. 1990](https://www.sciencedirect.com/science/article/pii/S0022283605803602?via%3Dihub) ([ Camacho et al. 2009](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)) to search for sequence similarities by using NCBI's [BLAST web portal](https://blast.ncbi.nlm.nih.gov/Blast.cgi). We will first (re)familiarize ourselves with the search capabilities of the online service. Then, we will learn how to perform BLAST searches on a local computer, which allows querying of both remote and local sequence databases.
 
 [MODULE4_BLAST Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_4_BLAST.pdf)
 
