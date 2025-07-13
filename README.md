@@ -7,6 +7,7 @@ Motivation, goals, and structure
 [MODULE1_UNIX Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_1_Unix.pdf).
 
 Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/Unix_Cheat_Sheet.pdf) that includes most of the commands necessary to perform a wide range of bioinformatic data processing tasks.
+
 ---
 ## DAY 2
 ### MODULE 2. Sequence Quality Assessement and Trimming
@@ -19,14 +20,20 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 [MODULE3_GENOME_ASSEMBLY Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_3_Assembly.pdf)
 
 We will then learn how to use [Bandage](https://academic.oup.com/bioinformatics/article/31/20/3350/196114) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
+
 ---
 ## DAY 3
 ### MODULE 4. Sequence Comparison using Local BLAST
 Most participants will be familiar with using [BLAST]([Altshul et al. 1990](https://www.sciencedirect.com/science/article/pii/S0022283605803602?via%3Dihub); Camacho et al. 2009](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)) to search for sequence similarities by using NCBI's [BLAST web portal](https://blast.ncbi.nlm.nih.gov/Blast.cgi). We will first (re)familiarize ourselves with the search caoabilities of the online service. Then, we will learn how to perform BLAST searches on a local computer, which allows querying of both remote and local sequence databases.
 
 [MODULE4_BLAST Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_4_BLAST.pdf)
+
+---
 ### MODULE 5. De Novo Gene Prediction
+Here, we will use an existing genome annotation for one strain (FH) of the fungus, _Pyricularia oryzae_ to generate a training set for predicting genes in a second strain (70-15). This training set will be used to generate gene predictions using two software programs, [SNAP](https://github.com/KorfLab/SNAP) ([Korf, 2014](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-59)) and [AUGUSTUS](https://github.com/Gaius-Augustus/Augustus) ([Stanke et al. 2006](https://academic.oup.com/nar/article/34/suppl_2/W435/2505582)). Lastly, we will integrate the two gene predictions along with supporting evidence - including BLAST matches to known proteins and RNASeq data - using a program called [MAKER](https://www.yandell-lab.org/software/maker.html) ([Cantarel et al. 2008](https://genome.cshlp.org/content/18/1/188)), which produces a consensus set of gene models.
+
 [MODULE5_GENE_PREDICTION Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_5_Gene_Prediction.pdf)
+
 ---
 ## DAY 4
 ### MODULE 6. Transcript Assembly and Differential Gene Expression Analysis
