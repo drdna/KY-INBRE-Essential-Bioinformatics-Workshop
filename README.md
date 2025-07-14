@@ -10,6 +10,7 @@ Motivation, goals, and workshop structure.
 
 Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/Unix_Cheat_Sheet.pdf) that includes most of the commands necessary to perform a wide range of bioinformatic data processing tasks.
 </details>
+<br>
 ---
 <details>
 <summary><strong>DAY 2</strong></summary>
@@ -25,6 +26,7 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 
 We will then learn how to use [Bandage](https://academic.oup.com/bioinformatics/article/31/20/3350/196114) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 </details>
+<br>
 ---
 <details>
 <summary><strong>DAY 3</strong></summary>
@@ -40,6 +42,7 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 
 [MODULE5_GENE_PREDICTION Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_5_Gene_Prediction.pdf)
 </details>
+<br>
 ---
 <details>
 <summary><strong>DAY 4</strong></summary>
