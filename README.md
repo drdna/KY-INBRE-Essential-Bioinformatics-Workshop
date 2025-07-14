@@ -1,7 +1,8 @@
 # KY-INBRE-Essential-Bioinformatics-Workshop
 Training Materials and Background Information 
 <details>
-<summary>## DAY 1</summary>
+<summary><strong>DAY 1</strong></summary>
+<br>
 ### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
 ### MODULE 1. Learning to work in the UNIX command line environment
