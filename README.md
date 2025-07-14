@@ -10,8 +10,9 @@ Motivation, goals, and workshop structure.
 
 Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/Unix_Cheat_Sheet.pdf) that includes most of the commands necessary to perform a wide range of bioinformatic data processing tasks.
 </details>
-<br>
+
 ---
+
 <details>
 <summary><strong>DAY 2</strong></summary>
 <br>
@@ -26,8 +27,9 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 
 We will then learn how to use [Bandage](https://academic.oup.com/bioinformatics/article/31/20/3350/196114) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 </details>
-<br>
+
 ---
+
 <details>
 <summary><strong>DAY 3</strong></summary>
 <br>
@@ -37,13 +39,15 @@ Most participants will be familiar with using [BLAST]([Altshul et al. 1990](http
 [MODULE4_BLAST Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_4_BLAST.pdf)
 
 ---
+
 ### MODULE 5. De Novo Gene Prediction
 Here, we will use an existing genome annotation for one strain (FH) of the fungus, _Pyricularia oryzae_ to generate a training set for predicting genes in a second strain (70-15). This training set will be used to generate gene predictions using two software programs, [SNAP](https://github.com/KorfLab/SNAP) ([Korf, 2014](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-59)) and [AUGUSTUS](https://github.com/Gaius-Augustus/Augustus) ([Stanke et al. 2006](https://academic.oup.com/nar/article/34/suppl_2/W435/2505582)). Lastly, we will integrate the two gene predictions along with supporting evidence - including BLAST matches to known proteins and RNASeq data - using a program called [MAKER](https://www.yandell-lab.org/software/maker.html) ([Cantarel et al. 2008](https://genome.cshlp.org/content/18/1/188)), which produces a consensus set of gene models.
 
 [MODULE5_GENE_PREDICTION Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_5_Gene_Prediction.pdf)
 </details>
-<br>
+
 ---
+
 <details>
 <summary><strong>DAY 4</strong></summary>
 <br>
