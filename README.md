@@ -19,14 +19,15 @@ Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-u
 ### MODULE 2. Sequence Quality Assessement and Trimming
 We will use [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) to analyze sequence quality and visualize in a convenient browser. Poor quality sequence, as well as contaminating adaptors, will then be trimmed using [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) ([Bolger et al. 2014](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096). 
 
-### Resources
+#### Resources
 [MODULE2_SEQUENCES Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_2_Sequences.pdf)
+
 Link to [ASCII Table](https://i0.wp.com/pediaa.com/wp-content/uploads/2018/08/Difference-Between-ASCII-and-EBCDIC_Figure-1.png?resize=600%2C500).
 
 ### MODULE 3. De Novo Genome Assembly
 First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~torsten/velvet_advisor/) to identify a starting k-mer value for assembling a bacterial genome. We will then apply [VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser) to generate assemblies over a range of suitable k-mer values using [velvet](https://github.com/dzerbino/velvet) software ([Zerbino & Birney, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf); [Zerbino et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf))and report on the k-value (as well as other parameters) that produce an "optimal" genome.
 
-### Resources
+#### Resources
 [MODULE3_GENOME_ASSEMBLY Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_3_Assembly.pdf)
 
 We will then learn how to use [Bandage](https://academic.oup.com/bioinformatics/article/31/20/3350/196114) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
