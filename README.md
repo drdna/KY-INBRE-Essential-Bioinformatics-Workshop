@@ -3,6 +3,9 @@ Training Materials and Background Information
 <details>
 <summary><strong>DAY 1</strong></summary>
 
+## PRE-WORKSHOP SURVEY
+Please complete the following [survey](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc9Wg7b1Vzz-D5bdjEmG955jCwQiMDIelXFvC1YcpiwVC0oWA%2Fviewform%3Fusp%3Dsharing%26ouid%3D111233545817712152156&data=05%7C02%7Cmark.farman%40uky.edu%7C849cb2881507477b935a08ddc3a50579%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C638881835727713398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aamCFEEiN4fbHdCG8aowh%2FR9Mzppqt2xOHN1ijRaVnY%3D&reserved=0) which seeks information about your academic background, your familiarity with bioinformatics, and motivation for attending the workshop.
+
 ### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
 ### MODULE 1. Learning to work in the UNIX command line environment
