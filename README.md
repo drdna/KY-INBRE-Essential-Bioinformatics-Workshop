@@ -27,12 +27,13 @@ Link to [Illumina Cycle Sequencing Video](https://www.youtube.com/watch?v=fCd6B5
 Link to [ASCII Table](https://i0.wp.com/pediaa.com/wp-content/uploads/2018/08/Difference-Between-ASCII-and-EBCDIC_Figure-1.png?resize=600%2C500).
 
 ### MODULE 3. De Novo Genome Assembly
-First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~torsten/velvet_advisor/) to identify a starting k-mer value for assembling a bacterial genome. We will then apply [VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser) to generate assemblies over a range of suitable k-mer values using [velvet](https://github.com/dzerbino/velvet) software ([Zerbino & Birney, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf); [Zerbino et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf))and report on the k-value (as well as other parameters) that produce an "optimal" genome.
+First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~torsten/velvet_advisor/) to identify a starting k-mer value for assembling a bacterial genome. We will then apply [VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser) to generate assemblies over a range of suitable k-mer values using [velvet](https://github.com/dzerbino/velvet) software ([Zerbino & Birney, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf); [Zerbino et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf)). VelvetOptimiser will report the k-value (as well as other parameters) that produced the "optimal" genome assembly (depending on the criteria we set).
+
+We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 
 #### Resources
 [MODULE3_GENOME_ASSEMBLY Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_3_Assembly.pdf).
 
-We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 </details>
 
 ---
