@@ -30,7 +30,7 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 #### Resources
 [MODULE3_GENOME_ASSEMBLY Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_3_Assembly.pdf)
 
-We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) [Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
+We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 </details>
 
 ---
