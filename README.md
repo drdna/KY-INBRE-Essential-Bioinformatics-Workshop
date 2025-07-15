@@ -34,7 +34,7 @@ Link to [ASCII Table](https://i0.wp.com/pediaa.com/wp-content/uploads/2018/08/Di
 
 ### MODULE 3. De Novo Genome Assembly
 
-### Presentation 3. [Genome Assembly](/LECTURES/Presentation3_Genome_Assembly.pptx)
+### Presentation 3. [Genome Assembly](/LECTURES/Presentation3_Assembly.pptx)
 
 ### Activities
 First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~torsten/velvet_advisor/) to identify a starting k-mer value for assembling a bacterial genome. We will then apply [VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser) to generate assemblies over a range of suitable k-mer values using [velvet](https://github.com/dzerbino/velvet) software ([Zerbino & Birney, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf); [Zerbino et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf)). VelvetOptimiser will report the k-value (as well as other parameters) that produced the "optimal" genome assembly (depending on the criteria we set).
