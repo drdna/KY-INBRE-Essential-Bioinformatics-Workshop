@@ -48,7 +48,7 @@ Most participants will be familiar with using [BLAST]([Altshul et al. 1990](http
 
 [MODULE4_BLAST Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_4_BLAST.pdf)
 
-Link to the [BLAST manual](https://www.ncbi.nlm.nih.gov/books/NBK569839/).
+Link to the [NCBI BLAST manual](https://www.ncbi.nlm.nih.gov/books/NBK569839/) that explains all available options.
 
 ---
 
