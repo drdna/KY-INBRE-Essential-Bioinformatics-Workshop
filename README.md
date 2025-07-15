@@ -30,6 +30,8 @@ Link to [Illumina Cycle Sequencing Video](https://www.youtube.com/watch?v=fCd6B5
 
 Link to [ASCII Table](https://i0.wp.com/pediaa.com/wp-content/uploads/2018/08/Difference-Between-ASCII-and-EBCDIC_Figure-1.png?resize=600%2C500).
 
+---
+
 ### MODULE 3. De Novo Genome Assembly
 
 ### Presentation 3. [Introduction to the Workshop](/LECTURES/Presentation3_Genome_Assembly.pptx)
