@@ -20,6 +20,7 @@ Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-u
 
 ### Presentation 2. [Sequence Data: Acquisition and Processing](/LECTURES/Presentation2_Sequences.pptx)
 
+### Activities
 We will use [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) to analyze sequence quality and visualize in a convenient browser. Poor quality sequence, as well as contaminating adaptors, will then be trimmed using [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) ([Bolger et al. 2014](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096). 
 
 #### Resources
@@ -33,6 +34,7 @@ Link to [ASCII Table](https://i0.wp.com/pediaa.com/wp-content/uploads/2018/08/Di
 
 ### Presentation 3. [Introduction to the Workshop](/LECTURES/Presentation3_Genome_Assembly.pptx)
 
+### Activities
 First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~torsten/velvet_advisor/) to identify a starting k-mer value for assembling a bacterial genome. We will then apply [VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser) to generate assemblies over a range of suitable k-mer values using [velvet](https://github.com/dzerbino/velvet) software ([Zerbino & Birney, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf); [Zerbino et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2952100/pdf/nihms-234285.pdf)). VelvetOptimiser will report the k-value (as well as other parameters) that produced the "optimal" genome assembly (depending on the criteria we set).
 
 We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
