@@ -1,5 +1,5 @@
 # KY-INBRE-Essential-Bioinformatics-Workshop
-Training Materials and Background Information 
+## Training Materials and Background Information 
 <details>
 <summary><strong>DAY 1</strong></summary>
 
