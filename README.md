@@ -97,4 +97,6 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 [MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
 </details>
 
+---
+
 Link to GitHub page with instructions for [Workshop Installation](https://github.com/actapia/uky-ngs-workshop-user-install).
