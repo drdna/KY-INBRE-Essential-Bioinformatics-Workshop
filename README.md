@@ -4,7 +4,7 @@
 <summary><strong>DAY 1</strong></summary>
 
 ## PRE-WORKSHOP SURVEY
-Please complete the following [survey](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc9Wg7b1Vzz-D5bdjEmG955jCwQiMDIelXFvC1YcpiwVC0oWA%2Fviewform%3Fusp%3Dsharing%26ouid%3D111233545817712152156&data=05%7C02%7Cmark.farman%40uky.edu%7C849cb2881507477b935a08ddc3a50579%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C638881835727713398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aamCFEEiN4fbHdCG8aowh%2FR9Mzppqt2xOHN1ijRaVnY%3D&reserved=0) which seeks information about your academic background, your familiarity with bioinformatics, and motivation for attending the workshop.
+Please complete the following [Pre-workshop survey](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc9Wg7b1Vzz-D5bdjEmG955jCwQiMDIelXFvC1YcpiwVC0oWA%2Fviewform%3Fusp%3Dsharing%26ouid%3D111233545817712152156&data=05%7C02%7Cmark.farman%40uky.edu%7C849cb2881507477b935a08ddc3a50579%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C638881835727713398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aamCFEEiN4fbHdCG8aowh%2FR9Mzppqt2xOHN1ijRaVnY%3D&reserved=0) which seeks information about your academic background, your familiarity with bioinformatics, and motivation for attending the workshop.
 
 ### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
@@ -103,6 +103,13 @@ Once we have generated a comprehensive genome annotatation, we will use it to co
 
 #### The Integrated Genomics Viewer
 Over the past two daya we have generated a large number of output files: gene predictions, transcript assemblies, RNASeq read alignments, and variant calls. Although we have learned how to query the outputs using the command line, the large volumes of data and the limits of the tabular format makes it hard to conceptualize how these various features are related and are organized. Fortunately, we can visualize and explore the datasets altogether in a graphical "genome browser" that lays out features according to their chromosomal positions. For this exercise, we will use the [Integrated Genomics Viewer (IGV)](https://igv.org) (([Robinson et al. 2011](http://www.nature.com/nbt/journal/v29/n1/abs/nbt.1754.html)) - a free browser that is easy to install and easy to use.
+
+---
+
+## POST-WORKSHOP SURVEY
+Please complete the following [Post-workshop survey](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd8bn31TzFz9-_AezSgmSAPCjdVDJVySRzNLKJYpYx7GE3QTg%2Fviewform%3Fusp%3Dsharing%26ouid%3D111233545817712152156&data=05%7C02%7Cmark.farman%40uky.edu%7C849cb2881507477b935a08ddc3a50579%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C638881835727753645%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7H2GsgXHTGfmtM5X%2FUXZn%2BsZLyMgq7b48ilbuGs4RMw%3D&reserved=0) to let us know how much your understanding of the command line and Bioinformatics Data Analysis has improved after attending the workshop.
+
+---
 
 ### Resources
 
