@@ -123,8 +123,11 @@ Please complete the following [Post-workshop survey](https://nam04.safelinks.pro
 [MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
 
 The [General Feature Format](https://gmod.org/wiki/GFF3)
+
 The [SAM/BAM Alignment Format](https://samtools.github.io/hts-specs/SAMv1.pdf)
+
 The [Variant Call Format](https://samtools.github.io/hts-specs/SAMv1.pdf)
+
 [Ballgown Manual] (https://www.bioconductor.org/packages/devel/bioc/manuals/ballgown/man/ballgown.pdf)
 
 </details>
