@@ -102,7 +102,7 @@ Once we have generated a comprehensive genome annotatation, we will use it to co
 ---
 
 #### The Integrated Genomics Viewer
-Over the past two daya we have generated a large number of output files: gene predictions, transcript assemblies, RNASeq read alignments, and variant calls. Although we have learned how to query the outputs using the command line, the large volumes of data and the limits of the tabular format makes it hard to conceptualize how these various features are related and are organized. Fortunately, we can visualize and explore the datasets altogether in a graphical "genome browser" that lays out features according to their chromosomal positions. For this exercise, we will use the [Integrated Genomics Viewer (IGV)](https://igv.org) (([Robinson et al. 2011](http://www.nature.com/nbt/journal/v29/n1/abs/nbt.1754.html)) - a free browser that is easy to install and easy to use.
+Over the past two daya we have generated a large number of output files: gene predictions, transcript assemblies, RNASeq read alignments, and variant calls. Although we have learned how to query the outputs using the command line, the large volumes of data and the limits of the tabular format makes it hard to conceptualize how these various features are related and are organized. Fortunately, we can visualize and explore the datasets altogether in a graphical "genome browser" that lays out features according to their chromosomal positions. For this exercise, we will use the [Integrated Genomics Viewer (IGV)](https://igv.org) ([Robinson et al. 2011](http://www.nature.com/nbt/journal/v29/n1/abs/nbt.1754.html)) - a free browser that is easy to install and easy to use.
 
 ---
 
