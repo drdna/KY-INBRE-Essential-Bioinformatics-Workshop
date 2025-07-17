@@ -88,7 +88,7 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 <br>
 
 ### MODULES 6 & 7. RNASeq and Variant Calling
-### Presentation 6. [RNASeq and Variant Calling](/LECTURES/Presentation6_RNASeq_Variants.pptx)
+### Presentation 6. [RNASeq and Variant Calling](/LECTURES/Presentation6_RNAseq_Variants.pptx)
 
 ### Activities
 #### Transcript Assembly
