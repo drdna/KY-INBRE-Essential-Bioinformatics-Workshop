@@ -103,11 +103,14 @@ Once we have generated a comprehensive genome annotatation, we will use it to co
 
 ### MODULE 8. Visualizing data in a Genome Browser
 [MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
-</details>
 
 ### Resources
 
 [Ballgown Manual] (https://www.bioconductor.org/packages/devel/bioc/manuals/ballgown/man/ballgown.pdf)
+
+</details>
+
+
 
 ---
 
