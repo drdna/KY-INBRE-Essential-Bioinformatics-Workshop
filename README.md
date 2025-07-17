@@ -69,7 +69,7 @@ Link to the [NCBI BLAST manual](https://www.ncbi.nlm.nih.gov/books/NBK569839/) t
 
 ---
 
-### MODULE 5. De Novo Gene Prediction
+### MODULE 5. _De Novo_ Gene Prediction
 
 ### Presentation 5. [GENE PREDICTION](/LECTURES/Presentation5_Gene_Prediction.pptx)
 
@@ -87,8 +87,16 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 <summary><strong>DAY 4</strong></summary>
 <br>
 
+### MODULES 6 & 7. RNASeq and Variant Calling
+### Presentation 6. [RNASeq and Variant Calling](/LECTURES/Presentation6_RNASeq_Variants.pptx)
+
+### Activities
+Our goal is to perform a reference-guided transcript assembly for _Pyricularia oryzae_. First, we will use [HISAT2](http://daehwankimlab.github.io/hisat2/) ([Siren et al, 2014](https://dl.acm.org/doi/10.1109/TCBB.2013.2297101)) to align RNASeq reads from two strains (70-15 and FR13) to the 70-15 reference assembly. We will then use [Stringtie] (https://github.com/skovaka/stringtie2) ([Pertea et al. 2016](https://www.nature.com/articles/nprot.2016.095)) to assemble transcripts for each of the individual datasets, using the 70-15 reference annotation as a guide. Next, we'll employ the _stringtie merge_ function to merge the individual transcript assemblies into a single, comprehensive set of transcript models.
+
 ### MODULE 6. Transcript Assembly and Differential Gene Expression Analysis
 [MODULE6_RNASEQ Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_6_RNAseq.pdf)
+
+Once we have generated a comprehensive genome annotatation, we will use it to compare expression levels of the constituent transcripts between _P. oryzae_ colonies growing in liquid culture versus those growing inside rice plants. Typically, the results from Stringtie are analyzed using the [Ballgown](https://git.bioconductor.org/packages/ballgown) ([Frazee et al. 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4792117/)) package. However, we could spend a whole day (or more) learning how to work in R. For this reason, we will use the legacy program [cuffdiff](http://cole-trapnell-lab.github.io/cufflinks/cuffdiff/) ([Trapnell et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3334321/)), which can be run entirely on the command line.
 
 ### MODULE 7. Identifying Genetic Variants
 [MODULE7_VARIANT_CALLING Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_7_Variant_Calling.pdf)
@@ -96,6 +104,10 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 ### MODULE 8. Visualizing data in a Genome Browser
 [MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
 </details>
+
+### Resources
+
+[Ballgown Manual] (https://www.bioconductor.org/packages/devel/bioc/manuals/ballgown/man/ballgown.pdf)
 
 ---
 
