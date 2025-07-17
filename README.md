@@ -96,10 +96,14 @@ Our goal is to perform a reference-guided transcript assembly for _Pyricularia o
 ### MODULE 6. Transcript Assembly and Differential Gene Expression Analysis
 [MODULE6_RNASEQ Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_6_RNAseq.pdf)
 
+---
+
 Once we have generated a comprehensive genome annotatation, we will use it to compare expression levels of the constituent transcripts between _P. oryzae_ colonies growing in liquid culture versus those growing inside rice plants. Typically, the results from Stringtie are analyzed using the [Ballgown](https://git.bioconductor.org/packages/ballgown) ([Frazee et al. 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4792117/)) package. However, we could spend a whole day (or more) learning how to work in R. For this reason, we will use the legacy program [cuffdiff](http://cole-trapnell-lab.github.io/cufflinks/cuffdiff/) ([Trapnell et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3334321/)), which can be run entirely on the command line.
 
 ### MODULE 7. Identifying Genetic Variants
 [MODULE7_VARIANT_CALLING Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_7_Variant_Calling.pdf)
+
+---
 
 ### MODULE 8. Visualizing data in a Genome Browser
 [MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
