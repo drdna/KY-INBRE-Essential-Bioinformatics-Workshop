@@ -9,7 +9,7 @@ Please complete the following [Pre-workshop survey](https://docs.google.com/form
 ### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
 ### MODULE 1. Learning to work in the UNIX command line environment
-[MODULE1_UNIX Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_1_Unix.pdf).
+[MODULE1_UNIX Training Manual](/MANUALS/Module_1_Unix.pdf).
 
 Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/Unix_Cheat_Sheet.pdf) that includes most of the commands necessary to perform a wide range of bioinformatic data processing tasks.
 </details>
@@ -27,7 +27,7 @@ Here is a handy [Unix Cheat Sheet](https://github.com/actapia/uky-ngs-workshop-u
 We will use [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) to analyze sequence quality and visualize in a convenient browser. Poor quality sequence, as well as contaminating adaptors, will then be trimmed using [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) ([Bolger et al. 2014](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096). 
 
 #### Resources
-[MODULE2_SEQUENCES Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_2_Sequences.pdf).
+[MODULE2_SEQUENCES Training Manual](/MANUALS/Module_2_Sequences.pdf).
 
 Link to [Illumina Cycle Sequencing Video](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
 
@@ -45,7 +45,7 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 
 #### Resources
-[MODULE3_GENOME_ASSEMBLY Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_3_Assembly.pdf).
+[MODULE3_GENOME_ASSEMBLY Training Manual](/MANUALS/Module_3_Assembly.pdf).
 
 </details>
 
@@ -63,7 +63,7 @@ Most participants will be familiar with using [BLAST]([Altshul et al. 1990](http
 
 #### Resources
 
-[MODULE4_BLAST Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_4_BLAST.pdf)
+[MODULE4_BLAST Training Manual](/MANUALS/Module_4_BLAST.pdf)
 
 Link to the [NCBI BLAST manual](https://www.ncbi.nlm.nih.gov/books/NBK569839/) that explains all available options.
 
@@ -78,7 +78,7 @@ Here, we will use an existing genome annotation for one strain (FH) of the fungu
 
 #### Resources
 
-[MODULE5_GENE_PREDICTION Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_5_Gene_Prediction.pdf)
+[MODULE5_GENE_PREDICTION Training Manual](/MANUALS/Module_5_Gene_Prediction.pdf)
 </details>
 
 ---
@@ -114,16 +114,16 @@ Please complete the following [Post-workshop survey](https://nam04.safelinks.pro
 ### Resources
 
 ### MODULE 6. Transcript Assembly and Differential Gene Expression Analysis
-[MODULE6_RNASEQ Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_6_RNAseq.pdf)
+[MODULE6_RNASEQ Training Manual](/MANUALS/Module_6_RNAseq.pdf)
 
 ### MODULE 7. Identifying Genetic Variants
-[MODULE7_VARIANT_CALLING Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_7_Variant_Calling.pdf)
+[MODULE7_VARIANT_CALLING Training Manual](/MANUALS/Module_7_Variant_Calling.pdf)
 
 ### MODULE 8. Visualizing data in a Genome Browser
-[MODULE8_IGV Training Manual](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Module_8_IGV.pdf)
+[MODULE8_IGV Training Manual](/MANUALS/Module_8_IGV.pdf)
 
 ### SUPPLEMENTAL MODULE. RNA-clique: computing genetic distances from RNA-seq data
-[Supplemental_Module_RNA-clique](https://github.com/actapia/uky-ngs-workshop-user-install/blob/main/docs/nocopy/Supplemental_Module_RNA-clique.pdf)
+[Supplemental_Module_RNA-clique](/MANUALS/Module9_RNA-clique.pdf)
 
 The [General Feature Format](https://gmod.org/wiki/GFF3)
 
