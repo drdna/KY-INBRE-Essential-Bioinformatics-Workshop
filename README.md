@@ -4,7 +4,7 @@
 <summary><strong>DAY 1</strong></summary>
 
 ## PRE-WORKSHOP SURVEY
-Please complete the following [Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSeaiiiMAEWjv6RfvS8sF2HgpEcVu2Q-B_IrJUpmfIEBenaIQA/viewform?usp=preview) which seeks information about your academic background, your familiarity with bioinformatics, and motivation for attending the workshop.
+Please complete the following [Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSeaiiiMAEWjv6RfvS8sF2HgpEcVu2Q-B_IrJUpmfIEBenaIQA/viewform?usp=publish-editor) which seeks information about your academic background, your familiarity with bioinformatics, and motivation for attending the workshop.
 
 ### Presentation 1. [Introduction to the Workshop](/LECTURES/Presentation1_Intro.pptx)
 Motivation, goals, and workshop structure.
