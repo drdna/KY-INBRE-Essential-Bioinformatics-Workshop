@@ -44,6 +44,8 @@ First we will explore the use of [Velvet Advisor](https://dna.med.monash.edu/~to
 
 We will then learn how to use [Bandage](http://rrwick.github.io/Bandage/) ([Wick et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3350/196114)) to explore genome assembly graphs to gain insights into connectivity between genomic contigs that are not accessible from the genome assembly itself.
 
+Finally, we will use [rnaSPAdes](https://doi.org/10.1093/gigascience/giz100) to perform a transcriptome assembly and will use command line tools to identify and count genes with alternative transcript isoforms.
+
 #### Resources
 [MODULE3_GENOME_ASSEMBLY Training Manual](/MANUALS/Module_3_Assembly.pdf).
 
