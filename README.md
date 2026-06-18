@@ -125,7 +125,7 @@ Please complete the following [Post-workshop survey](https://nam04.safelinks.pro
 [MODULE8_IGV Training Manual](/MANUALS/Module_8_IGV.pdf)
 
 ### SUPPLEMENTAL MODULE. RNA-clique: computing genetic distances from RNA-seq data
-[Supplemental_Module_RNA-clique](/MANUALS/Module9_RNA-clique.pdf)
+[Supplemental_Module_RNA-clique](/MANUALS/Module_9_RNA-clique.pdf)
 
 The [General Feature Format](https://gmod.org/wiki/GFF3)
 
